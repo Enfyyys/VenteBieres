@@ -1,0 +1,30 @@
+.logo {
+    width: 50px;
+}
+
+.store-icon {
+    width: 30px;
+}
+
+header .btn {
+    margin-right: 10px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.text-warning i {
+    margin-right: 2px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
