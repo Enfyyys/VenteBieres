@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+body {
+    font-family: 'Roboto Slab', serif;
+    color: #8B4513;
+}
+
 .logo {
     width: 50px;
 }
@@ -27,4 +34,18 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    background-color: #F7F9FB;
+}
+
+.text-color {
+    color: #8B4513;
+}
+
+.card img.profile {
+    width: 100px;
+    height: 70px;
+}
+
+.card {
+    background-color: #F7F9FB;
 }
